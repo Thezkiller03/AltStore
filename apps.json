@@ -1,38 +1,58 @@
 {
-     "name": "Thezkiller03's Repo",
-     "identifier": "com.test.mylibrary",
-     "apps": [
-         {
-             "name": "Spotify++",
-             "bundleIdentifier": "com.spotify.plus",
-             "developerName": "julioverne",
-             "subtitle": "Spotify but free",
-             "version": "1.0",
-             "versionDate": "2020-03-24T00:00:00-00:00",
-             "versionDescription": "None.",
-             "downloadURL": "https://github.com/edwardayala/altrepo/raw/master/Spotify%2B%2B%20v8.4.75.ipa",
-             "localizedDescription": "Spotify but free",
-             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
-             "tintColor": "52a04b",
-             "size": 22000000,
-             "screenshotURLs": [
-                 "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/a3/2e/d3a32e70-144e-cbf7-e908-5e5acdb5e035/mzl.nshlthpl.png/230x0w.png",
-                 "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/31/53/e93153ac-0ea4-7a61-cb58-dc0ff7504ef7/mzl.abblbown.png/230x0w.png",
-                 "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/70/d1/3a70d1d0-b4ce-9341-b3f0-b5bcd9d6993f/mzl.eyavsafn.png/230x0w.png"
-             ]
-         }
-     ],
-     "news": [
-         {
-             "title": "My Trial Repo",
-             "identifier": "Testing my Repo",
-             "caption": "Caption",
-             "tintColor": "0093E9",
-             "imageURL": "https://github.com/Thezkiller03/AltStore/blob/assets/Icon.png",
-             "appID": "com.test.mylibrary",
-             "date": "2020-05-29",
-             "notify": true
-        }
-    ],
-    "userInfo": {}
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.mojang.minecraft",
+      "developerName": "Mojang",
+      "downloadURL": "https://cdn.app-valley.vip/companion/237.com.mojang.minecraftpe.ipa?1590161322",
+      "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/2b/93/53/2b935390-fd7a-2301-5dd2-8e84599c19bc/AppIcon-0-1x_U007emarketing-0-85-220-9.png/246x0w.png",
+      "localizedDescription": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. Create, explore and survive alone or play with friends on all different devices.\n\n\nEXPAND YOUR GAME:\n\nMarketplace - Discover the latest community creations in the marketplace! Get unique maps, skins, and texture packs from your favorite creators.\n\n\nSlash commands - Tweak how the game plays: you can give items away, summon mobs, change the time of day, and more.\n\n\nAdd-Ons - Customize your experience even further with free Add-Ons! If you're more tech-inclined, you can modify data-driven behaviors in the game to create new resource packs.\n\n\nMinecraft Realms auto-renewable subscription info:\n\n\nMinecraft now comes with the option to buy Minecraft Realms. Realms is a monthly subscription service that lets you create your own always-online Minecraft world.\n\nThere are currently two subscription options to choose from depending on how many people you want to invite to play in your realm simultaneously. A realm for you and 2 friends costs 3.99 USD/month (or local equivalent) and a realm for you and 10 friends cost 7.99 USD/month (or local equivalent).\n\nA 30-day trial of Minecraft Realms for you and 10 friends is available. Any unused portion of a free trial period will be forfeited when the user purchases a subscription.\n\n\nThe payment will be charged to your iTunes account at confirmation of purchase and the subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period, at the subscription price option you have previously selected.\n\n\nYour subscription can be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. There is also a button in-game that take you to these settings. If you cancel after your subscription has activated, you won't be refunded for the remaining active period of the subscription.",
+      "name": "Minecraft",
+      "screenshotURLs": [
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/38/26/38/38263894-212b-a388-6bcd-bdffc9ba8fe6/pr_source.png/313x0w.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/e0/40/35/e04035b3-29a9-606f-7145-dec8d7421a8d/pr_source.png/313x0w.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/9d/ba/6d9dba12-8140-0f11-ad5f-439872a5d881/pr_source.png/313x0w.png"
+      ],
+      "size": 289400000,
+      "subtitle": "",
+      "tintColor": "70b238",
+      "version": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. Create, explore and survive alone or play with friends on all different devices.   EXPAND YOUR GAME:  Marketplace - Discover the latest community creations in the marketplace! Get unique maps, skins, and texture packs from your favorite creators.   Slash commands - Tweak how the game plays: you can give items away, summon mobs, change the time of day, and more.   Add-Ons - Customize your experience even further with free Add-Ons! If you're more tech-inclined, you can modify data-driven behaviors in the game to create new resource packs.   Minecraft Realms auto-renewable subscription info:   Minecraft now comes with the option to buy Minecraft Realms. Realms is a monthly subscription service that lets you create your own always-online Minecraft world.  There are currently two subscription options to choose from depending on how many people you want to invite to play in your realm simultaneously. A realm for you and 2 friends costs 3.99 USD/month (or local equivalent) and a realm for you and 10 friends cost 7.99 USD/month (or local equivalent).  A 30-day trial of Minecraft Realms for you and 10 friends is available. Any unused portion of a free trial period will be forfeited when the user purchases a subscription.   The payment will be charged to your iTunes account at confirmation of purchase and the subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period, at the subscription price option you have previously selected.   Your subscription can be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. There is also a button in-game that take you to these settings. If you cancel after your subscription has activated, you won't be refunded for the remaining active period of the subscription.",
+      "versionDate": "2020-05-20",
+      "versionDescription": "What's new in 1.14.60:\n\nVarious bug fixes"
+    },
+    {
+      "bundleIdentifier": "com.spotify.plus",
+      "developerName": "julioverne",
+      "downloadURL": "https://github.com/edwardayala/altrepo/raw/master/Spotify%2B%2B%20v8.4.75.ipa",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png",
+      "localizedDescription": "Spotify but free",
+      "name": "Spotify++",
+      "screenshotURLs": [
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/a3/2e/d3a32e70-144e-cbf7-e908-5e5acdb5e035/mzl.nshlthpl.png/230x0w.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/31/53/e93153ac-0ea4-7a61-cb58-dc0ff7504ef7/mzl.abblbown.png/230x0w.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/70/d1/3a70d1d0-b4ce-9341-b3f0-b5bcd9d6993f/mzl.eyavsafn.png/230x0w.png"
+      ],
+      "size": 22000000,
+      "subtitle": "Spotify but free",
+      "tintColor": "52a04b",
+      "version": "1.0",
+      "versionDate": "2020-03-24T00:00:00-00:00",
+      "versionDescription": "None."
+    }
+  ],
+  "identifier": "com.test.mylibrary",
+  "name": "Thezkiller03's Repo",
+  "news": [
+    {
+      "appID": "com.test.mylibrary",
+      "caption": "Caption",
+      "date": "2020-05-29",
+      "identifier": "Testing my Repo",
+      "imageURL": "https://github.com/Thezkiller03/AltStore/raw/assets/Icon.png",
+      "notify": true,
+      "tintColor": "BDBDBD",
+      "title": "My Trial Repo"
+    }
+  ],
+  "userInfo": {}
 }
