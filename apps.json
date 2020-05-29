@@ -1,4 +1,4 @@
-
+{
   "apps": [
     {
       "bundleIdentifier": "com.mojang.minecraftpe",
@@ -32,7 +32,7 @@
       "imageURL": "https://github.com/Thezkiller03/AltStore/raw/assets/Icon.png",
       "notify": true,
       "tintColor": "70b238",
-      "title": "Minecraft Test",
+      "title": "Minecraft For Free",
     }
   ],
   "userInfo": {}
