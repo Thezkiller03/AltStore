@@ -31,7 +31,7 @@
       "identifier": "test-test",
       "imageURL": "https://github.com/Thezkiller03/AltStore/raw/assets/Icon.png",
       "notify": true,
-      "tintColor": "BDBDBD",
+      "tintColor": "70b238",
       "title": "Minecraft Test",
       "url": ""
     }
