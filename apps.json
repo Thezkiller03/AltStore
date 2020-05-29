@@ -44,14 +44,15 @@
   "name": "Thezkiller03's Repo",
   "news": [
     {
-      "appID": "com.test.mylibrary",
+      "appID": "com.mojang.minecraftpe",
       "caption": "Caption",
       "date": "2020-05-29",
-      "identifier": "Testing my Repo",
+      "identifier": "Test-minecraftpe",
       "imageURL": "https://github.com/Thezkiller03/AltStore/raw/assets/Icon.png",
       "notify": true,
       "tintColor": "BDBDBD",
-      "title": "My Trial Repo"
+      "title": "My Trial Repo",
+      "url": ""
     }
   ],
   "userInfo": {}
