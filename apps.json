@@ -38,6 +38,63 @@
       "version": "1.0",
       "versionDate": "2020-03-24T00:00:00-00:00",
       "versionDescription": "None."
+    },
+    {
+      "name": "MediaBox HD",
+      "bundleIdentifier": "mediaboxhd.event.2",
+      "developerName": "MediaBox Team",
+      "subtitle": "The best free streaming app for iOS.",
+      "version": "2.4.9.2",
+      "versionDate": "2020-02-06",
+      "versionDescription": "More subtitles now supported.",
+      "downloadURL": "https://dl.orangedox.com/quarklibrary/MediaBox/MediaBox.ipa?dl=1",
+      "localizedDescription": "The best movie and TV streaming app for iOS.\n\nâ€¢ Uses direct streaming only, No Torrents (peer to peer / P2P)\nâ€¢ Media Box HD is constantly searching all over the web for the best stream from the most relevant sites.\n\nThe Best Features\n\nâ€¢ Discover popular Movies/Shows.\nâ€¢ Supports Chromecast, Roku, FireTV, Smart-TV, Wifi-Sharing.\nâ€¢ Trakt.tv sync\nâ€¢ Real-Debrid supported\nâ€¢ Offline Watching. Download in the background\nâ€¢ Files app support\nâ€¢ VLC-Player support\nâ€¢ Supports subtitles (from these sources: opensubtitles; popcorn-time; subscene; mediaboxhd)\nâ€¢ Customizable themes\n\nThe Best Service\n\nâ€¢ You can request Movies/Shows, Subtitles.\nâ€¢ You can help improve the app by giving us feedback about any problems you're having, and we will update the app ASAP",
+      "iconURL": "https://i.imgur.com/buZHkx2.png",
+      "tintColor": "#1e1e1e",
+      "size": 57384853,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "This app requires access to the photo library."
+        },
+        {
+          "type": "camera",
+          "usageDescription": "Some ad content may access camera to take picture."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "The app would like to use bluetooth."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "The app would like to use microphone."
+        },
+        {
+          "type": "calendars",
+          "usageDescription": "Some ad content may create a calendar event."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Some ad content may require access to accelerometer for interactive ad experience."
+        },
+        {
+          "type": "background-fetch",
+          "usageDescription": "The app would like to fetch in the background."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "The app would like to play audio in the background."
+        }
+      ],
+      "screenshotURLs": [
+        "https://i.imgur.com/dJqSRlb.png",
+        "https://i.imgur.com/otRiR3J.png",
+        "https://i.imgur.com/pG3Mdv2.png",
+        "https://i.imgur.com/0pNIcOD.png",
+        "https://i.imgur.com/HMYs5DV.png",
+        "https://i.imgur.com/I1zxbBV.png",
+        "https://i.imgur.com/VEv0sOb.png"
+      ]
     }
   ],
   "identifier": "com.test.mylibrary",
