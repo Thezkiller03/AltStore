@@ -1,1 +1,71 @@
-{"apps":[{"bundleIdentifier":"com.mojang.minecraftpe","developerName":"Mojang","downloadURL":"https://cdn.app-valley.vip/companion/237.com.mojang.minecraftpe.ipa?1604168816","iconURL":"https://img.pngio.com/minecraft-pocket-edition-logo-minecraft-pocket-edition-minecraft-pe-logo-688_640.jpg","localizedDescription":"-Minecraft    \r\n What's new in version 1.11.4?\r\n Cross-platform play for up to eight players across\r\n Windows 10 PCs, Android devices, iOS phones and tablets, Xbox One, and virtual reality platforms. Massive online multiplayer servers! \r\n We've added a server browser to the main menu so you can \r\n socialize, play, and collaborate with millions of other players. ","name":"Minecraft","screenshotURLs":["https://img.app-valley.vip/screenshot/246.png"],"size":100889909,"subtitle":"Minecraft","tintColor":"10b6ff","version":"1.16.40","versionDate":"2020-10-31T18:26:56+00:00","versionDescription":""},{"bundleIdentifier":"com.spotify.plus","developerName":"julioverne","downloadURL":"https://github.com/edwardayala/altrepo/raw/master/Spotify%2B%2B%20v8.4.75.ipa","iconURL":"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/39/7b/57/397b57dd-13d8-c317-b4f5-324385c198f3/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.png","localizedDescription":"Spotify but free","name":"Spotify++","screenshotURLs":["https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/a3/2e/d3a32e70-144e-cbf7-e908-5e5acdb5e035/mzl.nshlthpl.png/230x0w.png","https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/e9/31/53/e93153ac-0ea4-7a61-cb58-dc0ff7504ef7/mzl.abblbown.png/230x0w.png","https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3a/70/d1/3a70d1d0-b4ce-9341-b3f0-b5bcd9d6993f/mzl.eyavsafn.png/230x0w.png"],"size":22000000,"subtitle":"Spotify but free","tintColor":"52a04b","version":"1.0","versionDate":"2020-03-24T00:00:00-00:00","versionDescription":"None."},{"bundleIdentifier":"mediaboxhd.event.2","developerName":"MediaBox Team","downloadURL":"https://dl.orangedox.com/quarklibrary/MediaBox/MediaBox.ipa?dl=1","iconURL":"https://i.imgur.com/buZHkx2.png","localizedDescription":"The best movie and TV streaming app for iOS.\n\nâ€¢ Uses direct streaming only, No Torrents (peer to peer / P2P)\nâ€¢ Media Box HD is constantly searching all over the web for the best stream from the most relevant sites.\n\nThe Best Features\n\nâ€¢ Discover popular Movies/Shows.\nâ€¢ Supports Chromecast, Roku, FireTV, Smart-TV, Wifi-Sharing.\nâ€¢ Trakt.tv sync\nâ€¢ Real-Debrid supported\nâ€¢ Offline Watching. Download in the background\nâ€¢ Files app support\nâ€¢ VLC-Player support\nâ€¢ Supports subtitles (from these sources: opensubtitles; popcorn-time; subscene; mediaboxhd)\nâ€¢ Customizable themes\n\nThe Best Service\n\nâ€¢ You can request Movies/Shows, Subtitles.\nâ€¢ You can help improve the app by giving us feedback about any problems you're having, and we will update the app ASAP","name":"MediaBox HD","permissions":[{"type":"photos","usageDescription":"This app requires access to the photo library."},{"type":"camera","usageDescription":"Some ad content may access camera to take picture."},{"type":"bluetooth","usageDescription":"The app would like to use bluetooth."},{"type":"microphone","usageDescription":"The app would like to use microphone."},{"type":"calendars","usageDescription":"Some ad content may create a calendar event."},{"type":"motion","usageDescription":"Some ad content may require access to accelerometer for interactive ad experience."},{"type":"background-fetch","usageDescription":"The app would like to fetch in the background."},{"type":"background-audio","usageDescription":"The app would like to play audio in the background."}],"screenshotURLs":["https://i.imgur.com/dJqSRlb.png","https://i.imgur.com/otRiR3J.png","https://i.imgur.com/pG3Mdv2.png","https://i.imgur.com/0pNIcOD.png","https://i.imgur.com/HMYs5DV.png","https://i.imgur.com/I1zxbBV.png","https://i.imgur.com/VEv0sOb.png"],"size":57384853,"subtitle":"The best free streaming app for iOS.","tintColor":"#1e1e1e","version":"2.4.9.2","versionDate":"2020-02-06","versionDescription":"More subtitles now supported."}],"identifier":"com.newtest.mylibrary","name":"Thezkiller03's Repo","news":[{"appID":"com.mojang.minecraftpe","caption":"Caption","date":"2020-05-29","identifier":"Test-minecraftpe","imageURL":"https://github.com/Thezkiller03/AltStore/raw/assets/Icon.png","notify":true,"tintColor":"BDBDBD","title":"My Trial Repo","url":""}],"userInfo":{}}
+{
+  "apps": [
+    {
+      "bundleIdentifier": "mediaboxhd.event.2",
+      "developerName": "MediaBox Team",
+      "downloadURL": "https://dl.orangedox.com/quarklibrary/MediaBox/MediaBox.ipa?dl=1",
+      "iconURL": "https://i.imgur.com/buZHkx2.png",
+      "localizedDescription": "The best movie and TV streaming app for iOS.\n\nâ€¢ Uses direct streaming only, No Torrents (peer to peer / P2P)\nâ€¢ Media Box HD is constantly searching all over the web for the best stream from the most relevant sites.\n\nThe Best Features\n\nâ€¢ Discover popular Movies/Shows.\nâ€¢ Supports Chromecast, Roku, FireTV, Smart-TV, Wifi-Sharing.\nâ€¢ Trakt.tv sync\nâ€¢ Real-Debrid supported\nâ€¢ Offline Watching. Download in the background\nâ€¢ Files app support\nâ€¢ VLC-Player support\nâ€¢ Supports subtitles (from these sources: opensubtitles; popcorn-time; subscene; mediaboxhd)\nâ€¢ Customizable themes\n\nThe Best Service\n\nâ€¢ You can request Movies/Shows, Subtitles.\nâ€¢ You can help improve the app by giving us feedback about any problems you're having, and we will update the app ASAP",
+      "name": "MediaBox HD",
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "This app requires access to the photo library."
+        },
+        {
+          "type": "camera",
+          "usageDescription": "Some ad content may access camera to take picture."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "The app would like to use bluetooth."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "The app would like to use microphone."
+        },
+        {
+          "type": "calendars",
+          "usageDescription": "Some ad content may create a calendar event."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Some ad content may require access to accelerometer for interactive ad experience."
+        },
+        {
+          "type": "background-fetch",
+          "usageDescription": "The app would like to fetch in the background."
+        },
+        {
+          "type": "background-audio",
+          "usageDescription": "The app would like to play audio in the background."
+        }
+      ],
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 57384853,
+      "subtitle": "The best free streaming app for iOS.",
+      "tintColor": "#1e1e1e",
+      "version": "2.4.9.2",
+      "versionDate": "2020-02-06",
+      "versionDescription": "More subtitles now supported."
+    }
+  ],
+  "identifier": "com.newtest.mylibrary",
+  "name": "Thezkiller03's Diff",
+  "news": [
+    {
+      "appID": "com.mojang.minecraftpe",
+      "caption": "Caption",
+      "date": "2020-05-29",
+      "identifier": "Test-minecraftpe",
+      "imageURL": "https://github.com/Thezkiller03/AltStore/raw/assets/Icon.png",
+      "notify": true,
+      "tintColor": "BDBDBD",
+      "title": "My Trial Repo",
+      "url": ""
+    }
+  ],
+  "userInfo": {}
+}
