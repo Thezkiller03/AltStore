@@ -1,24 +1,21 @@
 {
   "apps": [
     {
-      "beta": false,
       "bundleIdentifier": "com.mojang.minecraftpe",
       "developerName": "Mojang",
-      "downloadURL": "https://cdn.app-valley.vip/companion/237.com.mojang.minecraftpe.ipa?1590161322",
-      "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/2b/93/53/2b935390-fd7a-2301-5dd2-8e84599c19bc/AppIcon-0-1x_U007emarketing-0-85-220-9.png/246x0w.png",
-      "localizedDescription": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off dangerous mobs. Create, explore and survive alone or play with friends on all different devices.\n\n\nEXPAND YOUR GAME:\n\nMarketplace - Discover the latest community creations in the marketplace! Get unique maps, skins, and texture packs from your favorite creators.\n\n\nSlash commands - Tweak how the game plays: you can give items away, summon mobs, change the time of day, and more.\n\n\nAdd-Ons - Customize your experience even further with free Add-Ons! If you're more tech-inclined, you can modify data-driven behaviors in the game to create new resource packs.\n\n\nMinecraft Realms auto-renewable subscription info:\n\n\nMinecraft now comes with the option to buy Minecraft Realms. Realms is a monthly subscription service that lets you create your own always-online Minecraft world.\n\nThere are currently two subscription options to choose from depending on how many people you want to invite to play in your realm simultaneously. A realm for you and 2 friends costs 3.99 USD/month (or local equivalent) and a realm for you and 10 friends cost 7.99 USD/month (or local equivalent).\n\nA 30-day trial of Minecraft Realms for you and 10 friends is available. Any unused portion of a free trial period will be forfeited when the user purchases a subscription.\n\n\nThe payment will be charged to your iTunes account at confirmation of purchase and the subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period, at the subscription price option you have previously selected.\n\n\nYour subscription can be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. There is also a button in-game that take you to these settings. If you cancel after your subscription has activated, you won't be refunded for the remaining active period of the subscription.",
+      "downloadURL": "https://cdn.app-valley.vip/companion/237.com.mojang.minecraftpe.ipa?1604168816",
+      "iconURL": "https://img.pngio.com/minecraft-pocket-edition-logo-minecraft-pocket-edition-minecraft-pe-logo-688_640.jpg",
+      "localizedDescription": "-Minecraft    \r\n What's new in version 1.11.4?\r\n Cross-platform play for up to eight players across\r\n Windows 10 PCs, Android devices, iOS phones and tablets, Xbox One, and virtual reality platforms. Massive online multiplayer servers! \r\n We've added a server browser to the main menu so you can \r\n socialize, play, and collaborate with millions of other players. ",
       "name": "Minecraft",
       "screenshotURLs": [
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/38/26/38/38263894-212b-a388-6bcd-bdffc9ba8fe6/pr_source.png/313x0w.png",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/e0/40/35/e04035b3-29a9-606f-7145-dec8d7421a8d/pr_source.png/313x0w.png",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/6d/9d/ba/6d9dba12-8140-0f11-ad5f-439872a5d881/pr_source.png/313x0w.png"
+        "https://img.app-valley.vip/screenshot/246.png"
       ],
-      "size": 100889910,
+      "size": 100889909,
       "subtitle": "Minecraft",
-      "tintColor": "70b238",
-      "version": "1.14.60",
-      "versionDate": "2020-05-22T15:28:42+00:00",
-      "versionDescription": "What's new in 1.14.60:\n\nVarious bug fixes"
+      "tintColor": "10b6ff",
+      "version": "1.16.40",
+      "versionDate": "2020-10-31T18:26:56+00:00",
+      "versionDescription": ""
     },
     {
       "bundleIdentifier": "com.spotify.plus",
@@ -40,18 +37,12 @@
       "versionDescription": "None."
     },
     {
-      "name": "MediaBox HD",
       "bundleIdentifier": "mediaboxhd.event.2",
       "developerName": "MediaBox Team",
-      "subtitle": "The best free streaming app for iOS.",
-      "version": "2.4.9.2",
-      "versionDate": "2020-02-06",
-      "versionDescription": "More subtitles now supported.",
       "downloadURL": "https://dl.orangedox.com/quarklibrary/MediaBox/MediaBox.ipa?dl=1",
-      "localizedDescription": "The best movie and TV streaming app for iOS.\n\nâ€¢ Uses direct streaming only, No Torrents (peer to peer / P2P)\nâ€¢ Media Box HD is constantly searching all over the web for the best stream from the most relevant sites.\n\nThe Best Features\n\nâ€¢ Discover popular Movies/Shows.\nâ€¢ Supports Chromecast, Roku, FireTV, Smart-TV, Wifi-Sharing.\nâ€¢ Trakt.tv sync\nâ€¢ Real-Debrid supported\nâ€¢ Offline Watching. Download in the background\nâ€¢ Files app support\nâ€¢ VLC-Player support\nâ€¢ Supports subtitles (from these sources: opensubtitles; popcorn-time; subscene; mediaboxhd)\nâ€¢ Customizable themes\n\nThe Best Service\n\nâ€¢ You can request Movies/Shows, Subtitles.\nâ€¢ You can help improve the app by giving us feedback about any problems you're having, and we will update the app ASAP",
       "iconURL": "https://i.imgur.com/buZHkx2.png",
-      "tintColor": "#1e1e1e",
-      "size": 57384853,
+      "localizedDescription": "The best movie and TV streaming app for iOS.\n\nâ€¢ Uses direct streaming only, No Torrents (peer to peer / P2P)\nâ€¢ Media Box HD is constantly searching all over the web for the best stream from the most relevant sites.\n\nThe Best Features\n\nâ€¢ Discover popular Movies/Shows.\nâ€¢ Supports Chromecast, Roku, FireTV, Smart-TV, Wifi-Sharing.\nâ€¢ Trakt.tv sync\nâ€¢ Real-Debrid supported\nâ€¢ Offline Watching. Download in the background\nâ€¢ Files app support\nâ€¢ VLC-Player support\nâ€¢ Supports subtitles (from these sources: opensubtitles; popcorn-time; subscene; mediaboxhd)\nâ€¢ Customizable themes\n\nThe Best Service\n\nâ€¢ You can request Movies/Shows, Subtitles.\nâ€¢ You can help improve the app by giving us feedback about any problems you're having, and we will update the app ASAP",
+      "name": "MediaBox HD",
       "permissions": [
         {
           "type": "photos",
@@ -94,10 +85,16 @@
         "https://i.imgur.com/HMYs5DV.png",
         "https://i.imgur.com/I1zxbBV.png",
         "https://i.imgur.com/VEv0sOb.png"
-      ]
+      ],
+      "size": 57384853,
+      "subtitle": "The best free streaming app for iOS.",
+      "tintColor": "#1e1e1e",
+      "version": "2.4.9.2",
+      "versionDate": "2020-02-06",
+      "versionDescription": "More subtitles now supported."
     }
   ],
-  "identifier": "com.test.mylibrary",
+  "identifier": "com.newtest.mylibrary",
   "name": "Thezkiller03's Repo",
   "news": [
     {
