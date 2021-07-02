@@ -1,18 +1,19 @@
 {
   "apps": [
     {"name": "iNDS Omega",
-	"bundleIdentifier": "net.nerd.iNDS",
- 	"developerName": "iNDS Team",
- 	"subtitle": "Revival of the Nintendo DS emulator for iOS.",
- 	"version": "1.10.8",
-	"versionDate": "2021-03-30",
-	 "versionDescription": "Version 1.10.8 fixes the cover art system, thus closing",
-	 "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
- 	"localizedDescription": "localizedDescription",
-	 "iconURL": "https://i.imgur.com/DbWJeF8.png",
-	 "tintColor": "#fc2125",
- 	"size": 8553596,
-	 "permissions": [{"type": "photos", "usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."}]
+     "bundleIdentifier": "net.nerd.iNDS",
+     "developerName": "iNDS Team",
+     "subtitle": "Revival of the Nintendo DS emulator for iOS.",
+     "version": "1.10.8",
+     "versionDate": "2021-03-30",
+     "versionDescription": "Version 1.10.8 fixes the cover art system, thus closing",
+     "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+     "localizedDescription": "localizedDescription",
+     "iconURL": "https://i.imgur.com/DbWJeF8.png",
+     "tintColor": "#fc2125",
+     "size": 8553596,
+     "permissions": [{"type": "photos", "usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."}],
+     "screenshotURLs": ["https://i.imgur.com/ap8Er1K.png", "https://i.imgur.com/EgfrobI.png", "https://i.imgur.com/9gLwHGD.png"]
     } , 
     {
       "beta": false,
