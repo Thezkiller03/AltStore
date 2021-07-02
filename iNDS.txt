@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.iNDS",
+      "developerName": "iNDS Team",
+      "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+      "iconURL": "https://avatars.githubusercontent.com/u/39138523?s=200&v=4",
+      "localizedDescription": "localizedDescription",
+      "name": "iNDS",
+      "screenshotURLs": [],
+      "size": 160000,
+      "subtitle": "iNDS Test",
+      "tintColor": "f22a2a",
+      "version": "1.10.8",
+      "versionDate": "2020-03-01T20:00:00+08:00",
+      "versionDescription": "Version 1.10.8 fixes the cover art system, thus closing"
+    }
+  ],
+  "identifier": "iNDS.test.source",
+  "name": "iNDS",
+  "news": [],
+  "userInfo": {}
+}
